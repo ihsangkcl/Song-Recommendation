@@ -1,25 +1,24 @@
-#### Bug description
+---
+name: Bug report
+about: Report the bug that you have encountered.
+title: ''
+labels: ''
+assignees: ''
 
+---
 
-
-#### Steps to reproduce the bug
-
-1.  
-2. 
-3. 
-
-
-#### Expected result?
-
+**Bug description**
 -
 
+**Steps to reproduce the bug**
+1-
+2-
 
-#### Actual result?
-
+**What is the expected result?**
 -
 
-
-#### Additional details / screenshot
-
-- 
+**What is the actual result?**
 -
+
+**Any additional details / screenshost**
+- ![Screenshot]()
